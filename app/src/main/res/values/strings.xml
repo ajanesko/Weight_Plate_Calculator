@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Weight Plate Calculator</string>
+    <string name="textView2" />
 </resources>
